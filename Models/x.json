@@ -1,0 +1,467 @@
+{
+    "_id": "646f7f73c2c42193e8546c21",
+    "tour": "645b9cf07d73d9876491270a",
+    "heading": "Day trip",
+    "title": "From London: Luxury Paris Full-Day Trip | GetYourGuide",
+    "avgRating": 4.5,
+    "provider": {
+        "name": "Premium Tours",
+        "link": "https://www.getyourguide.co.uk/premium-tours-s113/"
+    },
+    "image": [
+        "https://cdn.getyourguide.com/img/tour/5da03b89889f1.jpeg/98.jpg",
+        "https://cdn.getyourguide.com/img/tour/63d3ae6626bd8.jpeg/97.jpg",
+        "https://cdn.getyourguide.com/img/tour/63d3aef7a5037.jpeg/53.jpg",
+        "https://cdn.getyourguide.com/img/tour/4da451c385bcc.png/53.jpg",
+        "https://cdn.getyourguide.com/img/tour/5da03b89889f1.jpeg/146.jpg"
+    ],
+    "tourDetails": "Catch the Eurostar from London to Paris for a full day in the “City of Lights.” See historic landmarks, have lunch at the Eiffel Tower, and more.",
+    "tourPrice": "€ 401.42",
+    "tourPerson": "per person",
+    "tourActivity": [
+        {
+            "term": "Free cancellation",
+            "description": "Cancel up to 16 days in advance for a full refund",
+            "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8 2v2h8V2h2v2h4v13a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V4h4V2h2Zm8 4v1h2V6h2v11a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6h2v1h2V6h8Z\" fill=\"currentColor\"/><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"m16.74 10.423-5.705 6.276-3.242-3.242 1.414-1.414 1.758 1.758 4.295-4.724 1.48 1.346Z\" fill=\"#007850\"/></svg>"
+        },
+        {
+            "term": "Covid-19 precautions",
+            "description": "Special health and safety measures are in place. Check your activity voucher once you book for full details.",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\"><use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"#c-sparks\"/></svg>"
+        },
+        {
+            "term": "Duration 14 hours",
+            "description": "Check availability to see starting times.",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\"><use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"#c-clock-duration\"/></svg>"
+        },
+        {
+            "term": "Skip the ticket line",
+            "description": "",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\"><use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"#c-skip-the-line\"/></svg>"
+        },
+        {
+            "term": "Live tour guide",
+            "description": "English",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\"><use xmlns:xlink=\"http://www.w3.org/1999/xlink\" xlink:href=\"#c-guide\"/></svg>"
+        }
+    ],
+    "highlights": [
+        "Take a panoramic coach tour of Paris",
+        "Enjoy a lunch at the Eiffel Tower",
+        "Relax with round-trip transfers from London by Eurostar",
+        "See landmarks, such as the Notre-Dame and boutique stores of the Champs-Élysées",
+        "Create memories with a photo stop at the Louvre Museum"
+    ],
+    "description": [
+        "Enjoy a full-day tour of Paris, with round trip transfers from London by Eurostar. Upon arrival at St. Pancras international in London, a representative will escort you to your reserved seat on board the 06:55 train to Paris. They will be available as your guide throughout the day.",
+        "",
+        "Relax on the train journey. Then, take a panoramic bus tour to see some of the most iconic landmarks of the \"City of Lights,\" such as the Notre Dame cathedral, Napoleon’s triumphal Arc de Triomphe, and the luxury hotels and stores of the Champs-Elysees.",
+        "",
+        "Next, you’ll be treated to a special tour of the Eiffel Tower. Skip the lines and go straight to a reserved lunch at the newly opened Madame Brasserie on the first floor.",
+        "",
+        "Reopened in June 2022, the 1st floor fully renovated brasserie is run by a two Michelin stars chef Thierry Marx, offering contemporary brasserie cuisine.",
+        "",
+        "The restaurant opens 360 degrees onto the Iron Lady’s metal structure for you to enjoy its beauty, and offers a breathtaking view of the Trocadero and the Palais de Chaillot. Enjoy panoramic views of the city and feast on a delicious 3-course meal of French cuisine.",
+        "",
+        "Continue after lunch with a cruise down the River Seine, gliding through the heart of Paris for spectacular views of Place de la Concorde, the Musée D’Orsay, and much more.",
+        "",
+        "Complete your experience by exploring the streets at leisure and with a photo stop at the Louvre Museum.",
+        "",
+        "Return to the Gare Du Nord for your 19:13 Eurostar departure back to London, with check-in closing 45 minutes before departure. Arrive in London at approximately 20:30 for the end of tour services."
+    ],
+    "includes": [
+        {
+            "text": "Transfers by Eurostar",
+            "status": true
+        },
+        {
+            "text": "Fast-track entry to the Eiffel Tower",
+            "status": true
+        },
+        {
+            "text": "Cruise on the River Seine",
+            "status": true
+        },
+        {
+            "text": "Transportation in Paris by panoramic coach",
+            "status": true
+        },
+        {
+            "text": "Visit to the Louvre Museum",
+            "status": false
+        },
+        {
+            "text": "Transfers to and from hotels in London",
+            "status": false
+        }
+    ],
+    "suitable": [
+        {
+            "text": "People with mobility impairments"
+        },
+        {
+            "text": "Wheelchair users"
+        }
+    ],
+    "information": [
+        {
+            "headline": "What to bring",
+            "item": [
+                {
+                    "text": "Passport or ID card"
+                }
+            ]
+        },
+        {
+            "headline": "Not allowed",
+            "item": [
+                {
+                    "text": "Pets"
+                },
+                {
+                    "text": "Oversize luggage"
+                }
+            ]
+        },
+        {
+            "headline": "Know before you go",
+            "item": [
+                {
+                    "text": "Occasionally, lunch is not available at the Eiffel Tower. In this event, lunch will be provided on the Seine River cruise. This includes the 27th of May and the 4th, 14th, and 15th of July"
+                }
+            ]
+        }
+    ],
+    "status": true,
+    "ImageStore": false,
+    "__v": 0,
+    "tourDetailss": {
+        "_id": "645b9cf07d73d9876491270a",
+        "id": 11108,
+        "type": "supplier_activity",
+        "activityType": {
+            "key": "dayTrip",
+            "label": "Day trip"
+        },
+        "title": "From London: Luxury Paris Full-Day Trip",
+        "url": "/paris-l16/luxury-paris-day-trip-from-london-t11108/",
+        "reviewStatistics": {
+            "quantity": 47,
+            "rating": 4.489361763000488
+        },
+        "category": "dayTrip",
+        "categoryLabel": "Day trip",
+        "price": {
+            "startingPrice": 37602,
+            "formattedStartingPrice": "₹ 37,602",
+            "currency": "INR",
+            "currencySymbol": "₹",
+            "priceCategory": "individual",
+            "priceCategoryLabel": "per person",
+            "discountPercentage": "",
+            "basePrice": 37602,
+            "formattedBasePrice": "₹ 37,602",
+            "unformattedBookingFee": 0,
+            "unformattedDiscountPercentage": 0
+        },
+        "availability": {
+            "message": "1 spot left tomorrow",
+            "type": "urgent",
+            "nextAvailableDateTime": "2023-05-11T06:30:00+01:00",
+            "metadata": {
+                "pattern": "pActivityCardBanner available one_spot_tomorrow",
+                "spots": 1,
+                "date": "2023-05-11"
+            }
+        },
+        "photos": [
+            {
+                "url": "https://cdn.getyourguide.com/img/tour/5da03b89889f1.jpeg/{format_id}.jpg",
+                "urls": [
+                    {
+                        "url": "https://cdn.getyourguide.com/img/tour/5da03b89889f1.jpeg/53.jpg",
+                        "size": "thumb"
+                    },
+                    {
+                        "url": "https://cdn.getyourguide.com/img/tour/5da03b89889f1.jpeg/159.jpg",
+                        "size": "medium"
+                    },
+                    {
+                        "url": "https://cdn.getyourguide.com/img/tour/5da03b89889f1.jpeg/146.jpg",
+                        "size": "mobile"
+                    }
+                ]
+            }
+        ],
+        "attributes": [
+            {
+                "type": "duration",
+                "label": "14 hours",
+                "metadata": {}
+            },
+            {
+                "type": "skipTheLine",
+                "label": "Skip the line",
+                "metadata": {}
+            },
+            {
+                "type": "cutOffTime",
+                "label": "Must book at least 10h in advance",
+                "metadata": {}
+            }
+        ],
+        "primaryLocation": {
+            "id": 16,
+            "name": "Paris",
+            "urlPath": "/paris-l16/"
+        },
+        "coordinates": {
+            "latitude": 51.531427,
+            "longitude": -0.12613299999998162
+        },
+        "abstract": "Catch the Eurostar from London to Paris for a full day in the “City of Lights.” See historic landmarks, have lunch at the Eiffel Tower, and more.",
+        "dataGet": true
+    }
+},
+
+{
+    "_id": {
+      "$oid": "64b120a2e4a23082473c4bf4"
+    },
+    "addedByid": {
+      "$oid": "647846118e1d0eb371d8533e"
+    },
+    "cityId": {
+      "$oid": "64968b79e7f4d1c394496e58"
+    },
+    "activitySiteId": {
+      "$oid": "6496967d9aab8d3a44884c11"
+    },
+    "activityTypesId": {
+      "$oid": "64968679e7f4d1c394496ddb"
+    },
+    "categoryId": {
+      "$oid": "64968b9ce7f4d1c394496e65"
+    },
+    "countryId": {
+      "$oid": "649420dee240aa75bdafc77e"
+    },
+    "languageId": {
+      "$oid": "647dd96480f89119e85890c5"
+    },
+    "tourModuleId": {
+      "$oid": "6495641530f5cfc8b2a7c689"
+    },
+    "specialOfferId": null,
+    "slug": "Luxury Paris Full-Day Trip",
+    "referenceCode": "TQKV2U6LE3",
+    "activityTitle": "From London: Luxury Paris Full-Day Trip",
+    "description": "Catch the Eurostar from London to Paris for a full day in the “City of Lights.” See historic landmarks, have lunch at the Eiffel Tower, and more.",
+    "image": [
+      "https://thingstodos3bkt.s3.eu-west-1.amazonaws.com/activityDetails/image/b3a03330-222c-11ee-9e42-0b01c1fde194.jpg",
+      "https://thingstodos3bkt.s3.eu-west-1.amazonaws.com/activityDetails/image/c82557e0-222c-11ee-9e42-0b01c1fde194.jpg",
+      "https://thingstodos3bkt.s3.eu-west-1.amazonaws.com/activityDetails/image/dae7e500-222c-11ee-9e42-0b01c1fde194.jpg",
+      "https://thingstodos3bkt.s3.eu-west-1.amazonaws.com/activityDetails/image/ef91a8b0-222c-11ee-9e42-0b01c1fde194.jpg",
+      "https://thingstodos3bkt.s3.eu-west-1.amazonaws.com/activityDetails/image/015f2770-222d-11ee-9e42-0b01c1fde194.jpg"
+    ],
+    "activityActualPrice": 37037.42,
+    "tourDuration": {
+      "value": "14",
+      "unit": "hours"
+    },
+    "tourActivity": [
+      {
+        "term": "Free cancellation",
+        "description": "Cancel up to 16 days in advance for a full refund",
+        "svg": "svg",
+        "_id": {
+          "$oid": "64b120a2e4a23082473c4bf5"
+        }
+      },
+      {
+        "term": "Covid-19 precautions",
+        "description": "Special health and safety measures are in place. Check your activity voucher once you book for full details.",
+        "svg": "svg",
+        "_id": {
+          "$oid": "64b120a2e4a23082473c4bf6"
+        }
+      },
+      {
+        "term": "Duration 14 hours",
+        "description": "Check availability to see starting times.Skip the ticket line",
+        "svg": "svg",
+        "_id": {
+          "$oid": "64b120a2e4a23082473c4bf7"
+        }
+      },
+      {
+        "term": "Skip the ticket line",
+        "description": "",
+        "svg": "svg",
+        "_id": {
+          "$oid": "64b120a2e4a23082473c4bf8"
+        }
+      },
+      {
+        "term": "Live tour guide",
+        "description": "English",
+        "svg": "svg",
+        "_id": {
+          "$oid": "64b120a2e4a23082473c4bf9"
+        }
+      }
+    ],
+    "tourPerson": 20,
+    "meetingPoint": [
+      {
+        "desc": "Meet at Fenway Park, Gate D Ticket Booth located on Jersey Street at the intersection of Jersey Street and Van Ness Street.",
+        "link": "link",
+        "_id": {
+          "$oid": "64b120a2e4a23082473c4bfa"
+        }
+      }
+    ],
+    "information": [
+      {
+        "title": "highlights",
+        "desc": [
+          "Take a panoramic coach tour of Paris",
+          "Enjoy a lunch at the Eiffel Tower",
+          "Relax with round-trip transfers from London by Eurostar",
+          "See landmarks, such as the Notre-Dame and boutique stores of the Champs-Élysées",
+          "Create memories with a photo stop at the Louvre Museum"
+        ],
+        "_id": {
+          "$oid": "64b120a2e4a23082473c4bfb"
+        }
+      },
+      {
+        "title": "description",
+        "desc": [
+          "Enjoy a full-day tour of Paris, with round trip transfers from London by Eurostar. Upon arrival at St. Pancras international in London, a representative will escort you to your reserved seat on board the 06:55 train to Paris. They will be available as your guide throughout the day.",
+          "Relax on the train journey. Then, take a panoramic bus tour to see some of the most iconic landmarks of the \"City of Lights,\" such as the Notre Dame cathedral, Napoleon’s triumphal Arc de Triomphe, and the luxury hotels and stores of the Champs-Elysees.",
+          "Next, you’ll be treated to a special tour of the Eiffel Tower. Skip the lines and go straight to a reserved lunch at the newly opened Madame Brasserie on the first floor.",
+          "Reopened in June 2022, the 1st floor fully renovated brasserie is run by a two Michelin stars chef Thierry Marx, offering contemporary brasserie cuisine.",
+          "The restaurant opens 360 degrees onto the Iron Lady’s metal structure for you to enjoy its beauty, and offers a breathtaking view of the Trocadero and the Palais de Chaillot. Enjoy panoramic views of the city and feast on a delicious 3-course meal of French cuisine.",
+          "Continue after lunch with a cruise down the River Seine, gliding through the heart of Paris for spectacular views of Place de la Concorde, the Musée D’Orsay, and much more.",
+          "Complete your experience by exploring the streets at leisure and with a photo stop at the Louvre Museum.",
+          "Return to the Gare Du Nord for your 19:13 Eurostar departure back to London, with check-in closing 45 minutes before departure. Arrive in London at approximately 20:30 for the end of tour services."
+        ],
+        "_id": {
+          "$oid": "64b120a2e4a23082473c4bfc"
+        }
+      },
+      {
+        "title": "includes",
+        "desc": [
+          "Transfers by Eurostar",
+          "Fast-track entry to the Eiffel Tower",
+          "Cruise on the River Seine",
+          "Transportation in Paris by panoramic coach",
+          "Visit to the Louvre Museum",
+          "Transfers to and from hotels in London"
+        ],
+        "_id": {
+          "$oid": "64b120a2e4a23082473c4bfd"
+        }
+      },
+      {
+        "title": "suitable",
+        "desc": [
+          "People with mobility impairments",
+          "Wheelchair users"
+        ],
+        "_id": {
+          "$oid": "64b120a2e4a23082473c4bfe"
+        }
+      }
+    ],
+    "importentInfo": [
+      {
+        "title": "What to bring",
+        "description": [
+          "Passport or ID card"
+        ],
+        "_id": {
+          "$oid": "64b120a2e4a23082473c4bff"
+        }
+      },
+      {
+        "title": "Not allowed",
+        "description": [
+          "Pets",
+          "Oversize luggage"
+        ],
+        "_id": {
+          "$oid": "64b120a2e4a23082473c4c00"
+        }
+      },
+      {
+        "title": "Know before you go",
+        "description": [
+          "Occasionally, lunch is not available at the Eiffel Tower. In this event, lunch will be provided on the Seine River cruise. This includes the 27th of May and the 4th, 14th, and 15th of July"
+        ],
+        "_id": {
+          "$oid": "64b120a2e4a23082473c4c01"
+        }
+      }
+    ],
+    "activityCoordinates": [
+      {
+        "location": "Paris",
+        "lat": 51.531427,
+        "lng": -0.12613299999998162,
+        "_id": {
+          "$oid": "64b120a2e4a23082473c4c02"
+        }
+      }
+    ],
+    "participentType": [
+      {
+        "pertype": "Adult",
+        "age": "description",
+        "price": 37037.42,
+        "discountPrice": 0,
+        "_id": {
+          "$oid": "64b120a2e4a23082473c4c03"
+        }
+      },
+      {
+        "pertype": "children",
+        "age": "3-12",
+        "price": 15000,
+        "discountPrice": 0,
+        "_id": {
+          "$oid": "64b120a2e4a23082473c4c04"
+        }
+      }
+    ],
+    "currency": {
+      "name": "indian rupees",
+      "abbreviation": "INR",
+      "symbol": "rupee",
+      "_id": {
+        "$oid": "64b120a2e4a23082473c4c05"
+      }
+    },
+    "startDate": {
+      "$date": "2023-06-28T13:51:43.007Z"
+    },
+    "endDate": {
+      "$date": "2023-06-28T13:51:43.007Z"
+    },
+    "addedBy": "admin",
+    "tOriginal": true,
+    "priority": 1,
+    "saveAsDraft": false,
+    "isApproval": true,
+    "isDeleted": false,
+    "status": false,
+    "createdOn": {
+      "$date": "2023-07-14T08:34:40.094Z"
+    },
+    "updatedOn": {
+      "$date": "2023-07-14T08:34:40.094Z"
+    },
+    "__v": 0
+  }

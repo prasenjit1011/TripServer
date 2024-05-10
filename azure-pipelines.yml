@@ -1,0 +1,45 @@
+# Node.js
+# Build a general Node.js project with npm.
+# Add steps that analyze code, save build artifacts, deploy, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
+
+trigger:
+  - master
+
+# pr:
+# - master
+
+jobs:
+  # - job: BuildAndPushDockerImage
+  #   displayName: 'Build and Push Docker Image'
+  #   pool:
+  #     name: 'Default'
+  #   steps:
+  #     - script: |
+  #         sudo docker login -u webhibe -p 'SA#$qh~GnF5K+7N' https://index.docker.io/v1/
+
+  #     - script: |
+  #         sudo docker build . -t webhibe/things-to-do-backend
+  #         sudo docker push webhibe/things-to-do-backend
+  
+  - job: Deploy
+    displayName: 'Deploy to AWS EC2'
+    pool:
+      name: 'Default'
+    steps:
+      - task: SSH@0
+        inputs:
+          sshEndpoint: 'AWS-SSH-Endpoint'
+          runOptions: 'inline'
+          inline: |
+            cd /var/www/html/thingsToDo-Backend
+            git pull origin master -q
+            npm i
+            pm2 restart 6
+          # inline: |
+          #   if [[ $(sudo docker ps -q -f name=things-to-do-backend) ]]; then
+          #     sudo docker stop things-to-do-backend
+          #     sudo docker rm things-to-do-backend
+          #   fi
+          #   sudo docker pull webhibe/things-to-do-backend
+          #   sudo docker run -p 8025:8025 -d --name things-to-do-backend webhibe/things-to-do-backend
