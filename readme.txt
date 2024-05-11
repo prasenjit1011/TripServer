@@ -6,7 +6,7 @@ node --env-file=.env app.js
 
  let merchantData = {
                 ...req.body,
-                // image: img_loc,
+                //// image: img_loc,
                 addedBy: new mongoose.Types.ObjectId(req.user._id),
                 type: "admin",
                 designation: "marchentAdminstrative",
