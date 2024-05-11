@@ -18,7 +18,7 @@ const transporter = nodemailer.createTransport({
   secure: false,
   requireTLS: true,
   auth: {
-    user: "thingstodoo85@gmail.com",
+    user: "thingstodoo85@gmail.comz",
     pass: "fnuf lemg isln emly"
   },
 });
@@ -117,7 +117,7 @@ const addcreateMarchents = async (req, res) => {
 
         if (data) {
           const mailOption = {
-            from: "thingstodoo85@gmail.com",
+            from: "thingstodoo85@gmail.comz",
             to: req.body.email,
             subject: "Welcome Message",
             html: `
@@ -173,8 +173,8 @@ const addcreateMarchents = async (req, res) => {
           };
 
           const adminMailOptions = {
-            from: "thingstodoo85@gmail.com",
-            to: 'nilam1111nitu@gmail.com',
+            from: "thingstodoo85@gmail.comz",
+            to: 'nilam1111nitu@gmail.comz',
             subject: "New Merchant Request",
             html: `
               <html>

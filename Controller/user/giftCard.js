@@ -108,12 +108,12 @@ const sendGiftCardToEmail = async (req, res) => {
       secure: false,
       requireTLS: true,
       auth: {
-        user: "thingstodoo85@gmail.com",
+        user: "thingstodoo85@gmail.comz",
         pass: "fnuf lemg isln emly"
       },
     });
     const mailOption = {
-      from: "thingstodoo85@gmail.com",
+      from: "thingstodoo85@gmail.comz",
       to: req.body.email,
       subject: "Gift Card",
       html:
@@ -349,12 +349,12 @@ const sendActivityGiftCardToEmail = async (req, res) => {
       secure: false,
       requireTLS: true,
       auth: {
-        user: "thingstodoo85@gmail.com",
+        user: "thingstodoo85@gmail.comz",
         pass: "yzqkegawigupokwq",
       },
     });
     const mailOption = {
-      from: "thingstodoo85@gmail.com",
+      from: "thingstodoo85@gmail.comz",
 
       to: req.body.email,
       subject: "Gift Card",

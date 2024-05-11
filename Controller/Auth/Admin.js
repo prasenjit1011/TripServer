@@ -338,9 +338,11 @@ const getProfile = (req, res) => {
       decryptedMsg += decrypter.final("utf8");
       data[0].passwordCrypto = decryptedMsg;*/
 
+      console.log(1452, data);
+      
       return res.status(ResponseCode.errorCode.success).json({
         status: true,
-        message: "Get All profile deatils  Successfully",
+        message: "Get All profile deatils  Successfully.....123",
         data: data[0],
       });
     })

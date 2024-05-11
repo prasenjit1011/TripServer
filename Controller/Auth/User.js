@@ -54,7 +54,7 @@ const transporter = nodemailer.createTransport({
   secure: false,
   requireTLS: true,
   auth: {
-    user: "thingstodoo85@gmail.com",
+    user: "thingstodoo85@gmail.comz",
     pass: "fnuf lemg isln emly"
   },
 });
@@ -76,7 +76,7 @@ const register = async (req, res) => {
     password: "required|minLength:8",
   });
   const mailOption = {
-    from: "thingstodoo85@gmail.com",
+    from: "thingstodoo85@gmail.comz",
     to: req.body.email,
     subject: "Welcome Message",
     html: `
@@ -604,8 +604,8 @@ const update = (req, res) => {
   )
     .then((data) => {
       // const adminMailOptions = {
-      //   from: "thingstodoo85@gmail.com",
-      //   to: 'manish9681053451@gmail.com',
+      //   from: "thingstodoo85@gmail.comz",
+      //   to: 'manish9681053451@gmail.comz',
       //   subject: "New Merchant Request",
       //   html: `
       //     <html>
@@ -785,14 +785,14 @@ const sendOtpToExistingEmail = async (req, res) => {
           secure: false,
           requireTLS: true,
           auth: {
-            // user: "thingstodoo85@gmail.com",
+            // user: "thingstodoo85@gmail.comz",
             // pass: "yzqkegawigupokwq",
-            user: "thingstodoo85@gmail.com",
+            user: "thingstodoo85@gmail.comz",
             pass: "fnuf lemg isln emly",
           },
         });
         const mailOption = {
-          from: "thingstodoo85@gmail.com",
+          from: "thingstodoo85@gmail.comz",
           to: req.body.email,
           subject: "Welcome Message",
           html: `

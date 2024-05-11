@@ -347,7 +347,7 @@ const transporter = nodemailer.createTransport({
   secure: false,
   requireTLS: true,
   auth: {
-    user: "thingstodoo85@gmail.com",
+    user: "thingstodoo85@gmail.comz",
     pass: "fnuf lemg isln emly"
   },
 });
@@ -1068,7 +1068,7 @@ const addBooking = async (req, res) => {
         ])
           .then(async (data) => {
             const mailOption = {
-              from: "thingstodoo85@gmail.com",
+              from: "thingstodoo85@gmail.comz",
               to: req.user.email,
               subject: "Your Booking has confirm",
               html: `
@@ -1122,8 +1122,8 @@ const addBooking = async (req, res) => {
               `,
             };
             const adminMailOptions = {
-              from: "thingstodoo85@gmail.com",
-              to: 'nilam1111nitu@gmail.com',
+              from: "thingstodoo85@gmail.comz",
+              to: 'nilam1111nitu@gmail.comz',
               subject: "User Booking Successfully",
               html: `
                 <html>
@@ -1525,7 +1525,7 @@ const deleteBooking = async (req, res) => {
             console.log("after cancelledddddddddddddddddddddddd==", data);
 
             const mailOption = {
-              from: "thingstodoo85@gmail.com",
+              from: "thingstodoo85@gmail.comz",
               to: req.user.email,
               subject: "Your Booking has cancelled succesfull",
               html: `
@@ -1580,8 +1580,8 @@ const deleteBooking = async (req, res) => {
             };
 
             const adminMailOptions = {
-              from: "thingstodoo85@gmail.com",
-              to: 'nilam1111nitu@gmail.com',
+              from: "thingstodoo85@gmail.comz",
+              to: 'nilam1111nitu@gmail.comz',
               subject: "User Booking Cancel Successfully",
               html: `
                 <html>
@@ -2649,13 +2649,13 @@ const ticketSendToEmail = async (userId, orderId, email) => {
           secure: false,
           requireTLS: true,
           auth: {
-            user: "thingstodoo85@gmail.com",
+            user: "thingstodoo85@gmail.comz",
             pass: "fnuf lemg isln emly",
           },
         });
         console.log("emails is ticket", email);
         const mailOption = {
-          from: "thingstodoo85@gmail.com",
+          from: "thingstodoo85@gmail.comz",
           to: email,
           subject: "Booking Ticket",
           html: emailTemplet,
@@ -3126,13 +3126,13 @@ const viewBookingTicket1 = async (req, res) => {
         //       secure: false,
         //       requireTLS: true,
         //       auth: {
-        //         user: "pal.happytome88@gmail.com",
+        //         user: "pal.happytome88@gmail.comz",
         //         pass: "vgtubapoawagvfcv",
         //       },
         //     });
 
         //     const mailOption = {
-        //       from: "pal.happytome88@gmail.com",
+        //       from: "pal.happytome88@gmail.comz",
         //       to: req.user.email,
         //       subject: "Booking Ticket",
         //       html: emailTemplet,

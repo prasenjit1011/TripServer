@@ -60,12 +60,12 @@ const sendPasswordMail = async (name, email, user_id) => {
       secure: false,
       requireTLS: true,
       auth: {
-        user: "thingstodoo85@gmail.com",
+        user: "thingstodoo85@gmail.comz",
         pass: "fnuf lemg isln emly",
       },
     });
     const mailOption = {
-      from: "thingstodoo85@gmail.com",
+      from: "thingstodoo85@gmail.comz",
       to: email,
       subject: "Welcome Message",
       html: `
@@ -278,12 +278,15 @@ const transporter = nodemailer.createTransport({
   secure: false,
   requireTLS: true,
   auth: {
-    user: "thingstodoo85@gmail.com",
+    user: "thingstodoo85@gmail.comz",
     pass: "fnuf lemg isln emly",
   },
 });
 
 const adminRegisterMerchant = async (req, res) => {
+
+  console.log(44444444444);
+
   const v = new Validator(req.body, {
     // password: "required|minLength:8",
     email: "required|email",
@@ -293,7 +296,7 @@ const adminRegisterMerchant = async (req, res) => {
   });
 
   const mailOption = {
-    from: "thingstodoo85@gmail.com",
+    from: "thingstodoo85@gmail.comz",
     to: req.body.email,
     subject: "Welcome Message",
     html: `
@@ -1274,12 +1277,12 @@ const sendMail = async (name, email, approval) => {
       secure: false,
       requireTLS: true,
       auth: {
-        user: "pal.happytome88@gmail.com",
+        user: "pal.happytome88@gmail.comz",
         pass: "vgtubapoawagvfcv",
       },
     });
     const mailOption = {
-      from: "pal.happytome88@gmail.com",
+      from: "pal.happytome88@gmail.comz",
       to: email,
       subject: "Welcome Message",
       html: `

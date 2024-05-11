@@ -1865,7 +1865,7 @@ const transporter = nodemailer.createTransport({
   secure: false,
   requireTLS: true,
   auth: {
-    user: "thingstodoo85@gmail.com",
+    user: "thingstodoo85@gmail.comz",
     pass: "fnuf lemg isln emly"
   },
 });
@@ -1880,7 +1880,7 @@ const updateApprovalActivityReq = async (req, res) => {
   let firstName = mailfind.firstName
   let lastName = mailfind.lastName
   const mailOption = {
-    from: "thingstodoo85@gmail.com",
+    from: "thingstodoo85@gmail.comz",
     to: merchantMail,
     subject: "Welcome Message",
     html: `
@@ -1932,7 +1932,7 @@ const updateApprovalActivityReq = async (req, res) => {
     `,
   };
   const rejectmailOption = {
-    from: "thingstodoo85@gmail.com",
+    from: "thingstodoo85@gmail.comz",
     to: merchantMail,
     subject: "Welcome Message",
     html: `

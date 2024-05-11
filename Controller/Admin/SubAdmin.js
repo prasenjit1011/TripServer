@@ -44,12 +44,12 @@ const sendPasswordMail = async (name, email, user_id) => {
       secure: false,
       requireTLS: true,
       auth: {
-        user: "thingstodoo85@gmail.com",
+        user: "thingstodoo85@gmail.comz",
         pass: "yzqkegawigupokwq",
       },
     });
     const mailOption = {
-      from: "thingstodoo85@gmail.com",
+      from: "thingstodoo85@gmail.comz",
       to: email,
       subject: "Welcome Message",
       html: `
@@ -120,7 +120,7 @@ const transporter = nodemailer.createTransport({
   secure: false,
   requireTLS: true,
   auth: {
-    user: "thingstodoo85@gmail.com",
+    user: "thingstodoo85@gmail.comz",
     pass: "fnuf lemg isln emly"
   },
 });
@@ -154,7 +154,7 @@ const adminRegisterSubAdmin = async (req, res) => {
 
 
   const mailOption = {
-    from: "thingstodoo85@gmail.com",
+    from: "thingstodoo85@gmail.comz",
     to: req.body.email,
     subject: "Welcome Message",
     html: `
