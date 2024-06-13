@@ -104,7 +104,7 @@ const viewBanner = async (req, res) => {
       });
     })
     .catch((error) => {
-      const errors = DBerror(error);
+      //const errors = DBerror(error);
       return res.status(ResponseCode.errorCode.serverError).json({
         status: false,
         message: "Server error,Please try again",
